@@ -2,7 +2,7 @@
  Password Generator App
  
 ## Live Demo Link
-<a href="https://melihkocc.github.io/TimeCalculatingApp/">Demo Link</a>
+<a href="https://melihkocc.github.io/PasswordGenerator/">Demo Link</a>
 
 ## Technologies
 · HTML<br>
